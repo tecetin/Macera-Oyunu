@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MaceraOyunu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MaceraOyunu_jar</output-path>
+    <root id="archive" name="MaceraOyunu.jar">
+      <element id="module-output" name="MaceraOyunu" />
+    </root>
+  </artifact>
+</component>
